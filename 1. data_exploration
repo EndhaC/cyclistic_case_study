@@ -1,1 +1,16 @@
-will be filled soon
+In Data Exploration, my sole purpose is to familiarize myself with the dataset I'm working on.
+
+-  Checking the data types of all columns
+- Checking the number of null values within the dataset
+- Finding out the number of duplicate rows in the dataset
+- Opening each columns and try to understand the context of the data inserted on each columns.
+
+
+Checking the data types of all columns
+
+SELECT DISTINCT COLUMN_NAME, DATA_TYPE
+FROM analyze-data-12345.cyclistic_datasets.INFORMATION_SCHEMA.COLUMNS
+LIMIT 20;
+
+Resulted in the following:
+![SS1](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/a35f6a1b-f39d-4679-87b3-ae7be71a7181)
