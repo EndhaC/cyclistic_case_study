@@ -13,4 +13,6 @@ FROM analyze-data-12345.cyclistic_datasets.INFORMATION_SCHEMA.COLUMNS
 LIMIT 20;
 
 Resulted in the following:
+\
 ![SS1](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/a35f6a1b-f39d-4679-87b3-ae7be71a7181)
+
