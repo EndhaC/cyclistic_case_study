@@ -12,6 +12,13 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 Scenario 
 
-Cyclistic's director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the marketing team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the marketing team team will design a new strategy to convert casual riders into annual members. But first, Cyclistic executives must approve of our recommendations. To convince these executives, the analyst team has to provide a through report backed with relevant data.
+Cyclistic's Director of Marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the marketing team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the marketing team team will design a new strategy to convert casual riders into annual members. But first, Cyclistic executives must approve of our recommendations. To convince these executives, the analyst team has to provide a through report backed with relevant data.
 
-(Note: Even though the company is fictional, I will be performing similar tasks as the ones perform by data analysts in real world.0
+(Note: Even though the company is fictional, I will be performing similar tasks as the ones perform by data analysts in real world. Here are the deliverables that are expected from me in this scenario:
+1, A clear statement of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top three recommendations based on your analysis )
+
