@@ -1,4 +1,4 @@
 # cyclistic_case_study
 
-IN this case study, I will be assuming the role of Junior Data Analyst for a fictional company called Cyclistic.
-https://github.com/EndhaC/cyclistic_case_study/blob/main/SS1.png
+
+![SS1](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/8ba1d609-1de4-4ea5-84d5-40e23d68e961)
