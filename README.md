@@ -30,15 +30,19 @@ For this project, I'm going to use Cylistic's [historical data](https://divvy-tr
 
 In this part, I will document all the things that I did to complete my project from the beginning to the end.
 
-### I. Preparing the data. 
+### I) Preparing the data
 
 This step is simply to prepare my working space. I downloaded all the CSV files from sources. After that, I uploaded all the files to bigquery and renamed each file appropriately based on their month. 
 
 ![github_cyclistic_1](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/62a405be-e521-4be8-9364-89b4947ae3c5)
 
-After checking that each file has the same schema, I know it will be much more efficient for the analysis process if I just combine everything into on single file.
+After checking that each file has the same schema, I know it will be much more efficient for the analysis process if I just combine everything into one single file.
 
 ![github_cyclistic_2](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/01adc997-0b95-4d15-9ed5-6096324c7266)
+
+### II) Exploring the data
+
+Before working on the analysis, I need to familiarize myself with the data that I'm working with. 
 
 
 
