@@ -42,8 +42,23 @@ After checking that each file has the same schema, I know it will be much more e
 
 ### II) Exploring & cleaning the data
 
-Before working on the analysis, I take my time to  familiarize myself with the dataset. Then,  I write a couple of SQL codes to check all rows that contain missing values, duplicates, and  unnecessary whitespaces. I remove these rows from the combined dataset to increase the accuracy of the analysis result.
+Before working on the analysis, I take my time to  familiarize myself with the dataset. Then,  I use SQL codes to check all rows that contain missing values, duplicates, and  unnecessary whitespaces. I remove these rows from the combined dataset to increase the accuracy of the analysis result.
 
+### III) Analyzing the data
+
+After the dataset is cleaned, I can start collecting information that's needed to answer the Marketing team's questions. As a reminder, here are the questions:
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+
+Approach: 
+
+2. Why would casual riders buy Cyclistic annual memberships?
+
+Approach:
+
+3. How can Cyclistic use digital media to influence casual riders to become members? 
+
+Approach:
 
 
 
