@@ -10,6 +10,8 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. To do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
+My goal is simply to showcase my work process as a Data Analyst. 
+
 # Scenario 
 
 Cyclistic's Director of Marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the marketing team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the marketing team will design a new strategy to convert casual riders into annual members. But first, Cyclistic executives must approve of our recommendations. To convince these executives, the analyst team has to provide a thorough report backed with relevant data.
@@ -23,3 +25,12 @@ Cyclistic's Director of Marketing believes the company’s future success depend
 # Sources
 
 For this project, I'm going to use Cylistic's [historical data](https://divvy-tripdata.s3.amazonaws.com/index.html) (The data has been made publicly available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement)). I'll analyze this dataset to identify customer behaviors over the past year and help the marketing team create a strategy for their marketing campaign.
+
+# 4.Process
+
+In this part, I will document all the things that I did to complete my project from the beginning to the end.
+
+## I) Preparing the data. 
+
+
+
