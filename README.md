@@ -40,9 +40,9 @@ After checking that each file has the same schema, I know it will be much more e
 
 ![github_cyclistic_2](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/01adc997-0b95-4d15-9ed5-6096324c7266)
 
-### II) Exploring the data
+### II) Exploring & cleaning the data
 
-Before working on the analysis, I need to familiarize myself with the data that I'm working with. 
+Before working on the analysis, I take my time to  familiarize myself with the dataset. Then,  I write a couple of SQL codes to check all rows that contain missing values, duplicates, and  unnecessary whitespaces. I remove these rows from the combined dataset to increase the accuracy of the analysis result.
 
 
 
