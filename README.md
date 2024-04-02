@@ -24,13 +24,18 @@ Cyclistic's Director of Marketing believes the company’s future success depend
 
 # Sources
 
-For this project, I'm going to use Cylistic's [historical data](https://divvy-tripdata.s3.amazonaws.com/index.html) (The data has been made publicly available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement)). I'll analyze this dataset to identify customer behaviors over the past year and help the marketing team create a strategy for their marketing campaign.
+For this project, I'm going to use Cylistic's [historical data](https://divvy-tripdata.s3.amazonaws.com/index.html, specifically for each month of 2023. (The data has been made publicly available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement)). I'll analyze this dataset to identify customer behaviors over the past year and help the marketing team create a strategy for their marketing campaign.
 
 # 4.Process
 
 In this part, I will document all the things that I did to complete my project from the beginning to the end.
 
-## I) Preparing the data. 
+### I. Preparing the data. 
+
+I downloaded all the CSV files from sources. Then, I uploaded all the files to bigquery and rename each files appropriately based on 
+
+![github_cyclistic_1](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/62a405be-e521-4be8-9364-89b4947ae3c5)
+
 
 
 
