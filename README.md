@@ -32,16 +32,16 @@ In this part, I will document all the things that I did to complete my project f
 
 ### I. Preparing the data. 
 
-I downloaded all the CSV files from sources. Then, I uploaded all the files to bigquery and renamed each file appropriately based on their month. 
+This step is simply to prepare my working space. I downloaded all the CSV files from sources. After that, I uploaded all the files to bigquery and renamed each file appropriately based on their month. 
 
 ![github_cyclistic_1](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/62a405be-e521-4be8-9364-89b4947ae3c5)
 
-Then, I checked the schema on each file. Since all files have the schema, it will be much more efficient for the analysis process if I just combine all of them into one file.
+After checking that each file has the same schema, I know it will be much more efficient for the analysis process if I just combine everything into on single file.
 
 ![github_cyclistic_2](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/01adc997-0b95-4d15-9ed5-6096324c7266)
 
 
-![github_cyclistic_3](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/a37754ad-b9c8-46aa-afab-37875e82728b)
+
 
 
 
