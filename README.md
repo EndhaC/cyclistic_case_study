@@ -50,7 +50,7 @@ After the dataset is cleaned, I can start collecting information that's needed t
 
 1. How do annual members and casual riders use Cyclistic bikes differently?
 
-Approach: 
+Appr
 
 2. Why would casual riders buy Cyclistic annual memberships?
 
