@@ -1,4 +1,4 @@
-/* Removing rows with NULL VALUES */
+/* Removing rows with NULL VALUES Total rows In the data so far : 4299967 */
 
 SELECT *
 FROM `analyze-data-12345.cyclistic_datasets.cyclistic_2023_CleanedDataset`
