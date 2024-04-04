@@ -32,3 +32,26 @@ SET ride_id  = TRIM(ride_id).
     end_lat = TRIM(end_lat), 
     end_lng = TRIM(end_lng), 
     member_casual = TRIM(member_casual)
+
+ /* To completely clean the datasets */ 
+
+SELECT ride_id, 
+       rideable_type, 
+       started_at, 
+       ended_at,
+       EXTRACT(MINUTE FROM ended_at - started_at) AS ride_duration_minute,
+       FORMAT_DATE('%A', started_at) AS rental_day,
+       FORMAT_DATE('%B', DATE '2024-04-08') AS rental_month,
+       start_station_name, 
+       start_station_id, 
+       end_station_name, 
+       end_station_id, 
+       start_lat, 
+       start_lng, 
+       end_lat, 
+       end_lng, 
+       member_casual  
+       
+FROM `analyze-data-12345.cyclistic_datasets.cyclistic_2023_CleanedDataset` 
+WHERE EXTRACT(MINUTE FROM ended_at - started_at) < 1440 AND
+      EXTRACT(MINUTE FROM ended_at - started_at) > 1
