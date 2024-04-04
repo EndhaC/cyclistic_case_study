@@ -1,4 +1,4 @@
-# I) Background
+# I. Background
 
 In this case study, I will be assuming the role of a junior data analyst for a fictional company called Cyclistic. 
 
@@ -12,7 +12,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 My goal is simply to showcase my work process as a Data Analyst. 
 
-# II) Scenario 
+# II. Scenario 
 
 Cyclistic's Director of Marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the marketing team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the marketing team will design a new strategy to convert casual riders into annual members. But first, Cyclistic executives must approve of our recommendations. To convince these executives, the analyst team has to provide a thorough report backed with relevant data.
 
@@ -22,15 +22,15 @@ Cyclistic's Director of Marketing believes the company’s future success depend
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members? )
 
-# III) Sources
+# III. Sources
 
 For this project, I'm going to use Cylistic's [historical data](https://divvy-tripdata.s3.amazonaws.com/index.html, specifically for each month of 2023. (The data has been made publicly available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement)). I'll analyze this dataset to identify customer behaviors over the past year and help the marketing team create a strategy for their marketing campaign.
 
-# IV) Process
+# IV. Process
 
 In this part, I will document all the things that I did to complete my project from the beginning to the end.
 
-### IV-i) Preparing the data
+### A. Preparing the data
 
 This step is simply to prepare my working space. I downloaded all the CSV files from sources. After that, I uploaded all the files to bigquery and renamed each file appropriately based on their month. 
 
@@ -40,11 +40,11 @@ After checking that each file has the same schema, I know it will be much more e
 
 ![github_cyclistic_2](https://github.com/EndhaC/cyclistic_case_study/assets/121072673/01adc997-0b95-4d15-9ed5-6096324c7266)
 
-### IV-ii) Exploring & cleaning the data
+### B. Exploring & cleaning the data
 
 Before working on the analysis, I take my time to  familiarize myself with the dataset. Then,  I use SQL codes to check all rows that contain missing values, duplicates, and  unnecessary whitespaces. I remove these rows from the combined dataset to increase the accuracy of the analysis result.
 
-### IV-iii) Analyzing the data
+### C. Analyzing the data
 
 After the dataset is cleaned, I can start collecting information that's needed to answer the Marketing team's questions. As a reminder, here are the questions:
 
