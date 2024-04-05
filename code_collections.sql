@@ -41,7 +41,7 @@ SELECT ride_id,
        ended_at,
        EXTRACT(MINUTE FROM ended_at - started_at) AS ride_duration_minute,
        FORMAT_DATE('%A', started_at) AS rental_day,
-       FORMAT_DATE('%B', DATE '2024-04-08') AS rental_month,
+       FORMAT_DATE('%B', started_at) AS rental_month,
        start_station_name, 
        start_station_id, 
        end_station_name, 
@@ -55,3 +55,4 @@ SELECT ride_id,
 FROM `analyze-data-12345.cyclistic_datasets.cyclistic_2023_CleanedDataset` 
 WHERE EXTRACT(MINUTE FROM ended_at - started_at) < 1440 AND
       EXTRACT(MINUTE FROM ended_at - started_at) > 1
+ORDER BY started_at
